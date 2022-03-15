@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+button {
+  width: 60px;
+}
+
+#gameField {
+  width: 50vw;
+  height: 60vh;
+  border: 4px solid rgb(0, 0, 0);
+}
